@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workspace Memory"
+  short_description: "Keep a concise Memory.md updated."
+  default_prompt: "Use $workspace-memory to update Memory.md so the next session can resume quickly."
